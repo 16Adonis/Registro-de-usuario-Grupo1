@@ -1,7 +1,7 @@
 
 <p align="center">
     <!-- Primera imagen al 50% -->
-    <img src="https://github.com/user-attachments/assets/e6ad62b7-5dc1-4f40-bbec-afd65bba2890" alt="cap1" width="25%">
-    <img src="https://github.com/user-attachments/assets/47bbc475-aacb-413d-b97a-965598163791" alt="cap2" width="25%">
+    <img src="https://github.com/user-attachments/assets/308489b1-0fbc-4a07-bb3f-4ca141ef1785" alt="cap2" width="25%">
+    <img src="https://github.com/user-attachments/assets/308489b1-0fbc-4a07-bb3f-4ca141ef1785" alt="cap1" width="25%">
     
 </p>
